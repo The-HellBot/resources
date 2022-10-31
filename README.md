@@ -1,2 +1,1 @@
-# resources
-A repository to containing resources required for Hellbot.
+# A repository to containing resources required for Hellbot.
